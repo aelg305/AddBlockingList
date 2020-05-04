@@ -1,0 +1,95 @@
+!
+! Title: Domain Names filter AL
+! Description: Filter composed from several other filters
+! Last modified: 2020-05-04T14:10:37.615Z
+!
+! Source name: AndresL
+! Source: 
+!
+!
+! Section contains list of advertising networks
+!
+! White Listed Domains:
+@@||api.particle.io^
+@@||attestation.xboxlive.com^
+@@||book.disneylandparis.com^
+@@||cert.mgt.xboxlive.com^
+@@||clientconfig.passport.net^
+@@||ctldl.windowsupdate.com^
+@@||def-vef.xboxlive.com^
+@@||device.auth.xboxlive.com^
+@@||disneylandparis.com^
+@@||eds.xboxlive.com^
+@@||garadget.com^
+@@||hass-andres.duckdns.org^
+@@||help.ui.xboxlive.com^
+@@||illinois.edu^
+@@||licensing.xboxlive.com^
+@@||notify.xboxlive.com^
+@@||settings-win.data.microsoft.com^
+@@||title.auth.xboxlive.com^
+@@||title.mgt.xboxlive.com^
+@@||v10.events.data.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||www.msftncsi.com^
+@@||www.xboxlive.com^
+@@||xbox.ipv6.microsoft.com^
+@@||xboxexperiencesprod.experimentation.xboxlive.com^
+@@||xflight.xboxlive.com^
+@@||xkms.xbolive.com^
+@@||xsts.auth.xboxlive.com^
+! Black Listed Domains:
+a-vrv.akamaized.net
+a.stat.xiaomi.com
+abtest.mistat.xiaomi.com
+adv.sec.miui.com
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.d.xiaomi.com
+aws.charter.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
+cdn.ad.xiaomi.com
+charter-analytics.smithmicro.com
+cs519630.vkuservideo.net
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
+data.sec.miui.com
+doubleclick.net
+e.ad.xiaomi.com
+feedback.miui.com
+fireoscaptiveportal.com
+fwmrm.net
+geofence.sys.miui.com
+globalapi.ad.xiaomi.com
+graph.facebook.com
+identity.swrve.com
+impression.appsflyer.com
+logupdate.avlyun.sec.miui.com
+manage.com
+mazu.sec.miui.com
+new.api.ad.xiaomi.com
+sdkconfig.ad.xiaomi.com
+splunk.spectrum.net
+ssp.ad.xiaomi.com
+startappnetwork.comfwmrm.net
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+tracking.miui.com
+v-collector.dp.aws.charter.com
+v.fwmrm.net
+vk.com
+www.dailytvfix.com
+www.example.com
+www.example.net
+www.example.org
+yt3.ggpht.com
+! Regex & Wildcard blocking
+# not properly working: /(^|\.)ad[sv]?\d*./
+/^|\.ravm.tv/
+/^|\.logs.roku.com/
+/^|\.tampabay.rr/
+/^|\.tampabayrr/
