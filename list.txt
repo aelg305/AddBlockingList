@@ -38,6 +38,8 @@
 @@||xflight.xboxlive.com^
 @@||xkms.xbolive.com^
 @@||xsts.auth.xboxlive.com^
+@@||api.nimbusplatform.io^
+!
 ! Black Listed Domains:
 a-vrv.akamaized.net
 a.stat.xiaomi.com
