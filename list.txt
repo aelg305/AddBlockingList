@@ -14,10 +14,13 @@
 !unsure if these are needed for Disney @@||cdn.registerdisney.go.com^$important
 !unsure if these are needed for Disney @@||disney.my.sentry.io^$important
 !unsure if these are needed for Disney @@||sanalytics.disneyplus.com^$important
+@@||twitch.tv^$important
+@@||cs.dds.microsoft.com^$important
+@@||*irs.gov^$important
+@@||www.payusatax.com^$important
 @@||global.edge.bamgrid.com^$important
 @@||api.particle.io^
 @@||attestation.xboxlive.com^
-@@||book.disneylandparis.com^
 @@||cert.mgt.xboxlive.com^
 @@||clientconfig.passport.net^
 @@||ctldl.windowsupdate.com^
