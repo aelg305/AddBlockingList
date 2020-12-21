@@ -17,6 +17,8 @@
 @@||coinbase.com^
 @@||app.uniswap.org^
 @@||instagram.com^
+@@||facebook.com^
+@@||pushbullet.com^
 @@||alexa.amazon.com^
 @@||fe3cr.delivery.mp.microsoft.com^$important
 @@||onedrive.live.com^
