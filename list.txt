@@ -14,6 +14,9 @@
 !unsure if these are needed for Disney @@||cdn.registerdisney.go.com^$important
 !unsure if these are needed for Disney @@||disney.my.sentry.io^$important
 !unsure if these are needed for Disney @@||sanalytics.disneyplus.com^$important
+@@||coinbase.com^
+@@||app.uniswap.org^
+@@||instagram.com^
 @@||alexa.amazon.com^
 @@||fe3cr.delivery.mp.microsoft.com^$important
 @@||onedrive.live.com^
