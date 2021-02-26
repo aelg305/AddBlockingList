@@ -30,6 +30,13 @@
 !unsure if these are needed for amazon @@||d3p8zr0ffa9t17.cloudfront.net^$important
 !unsure if these are needed for amazon @@||device-metrics-us.amazon.com^$important
 !unsure if these are needed for amazon @@||api.amazonalexa.com^$important
+@@||android.clients.google.com^$important
+@@||ampproject.org
+@@||eth-eu2.nanopool.org^$important
+@@||ecommapi.ecom-mobile-samsung.com^$important
+@@||api.ecobee.com^$important
+@@||blogs.windows.com^$important
+@@||pasionprepagos.com^$important
 @@||avs-alexa-4-na.amazon.com^$important
 @@||wyze-venus-service-vn.wyzecam.com^$important
 @@||alexa.na.gateway.devices.a2z.com^$important
