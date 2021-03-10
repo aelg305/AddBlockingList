@@ -11,26 +11,29 @@
 !
 ! White Listed Domains:
 @@||workplace.com^
-!unsure if these are needed for Disney @@||cdn.registerdisney.go.com^$important
-!unsure if these are needed for Disney @@||disney.my.sentry.io^$important
-!unsure if these are needed for Disney @@||sanalytics.disneyplus.com^$important
-!unsure if these are needed for amazon @@||s3.amazonaws.com^$important
-!unsure if these are needed for amazon @@||aax-us-east.amazon-adsystem.com
-!unsure if these are needed for amazon @@||device-metrics-us-2.amazon.com
-!unsure if these are needed for amazon @@||device-metrics-us.amazon.com
-!unsure if these are needed for amazon @@||cognito-identity.us-east-1.amazonaws.com
-!unsure if these are needed for amazon @@||unagi-na.amazon.com
-!unsure if these are needed for amazon @@||ocsp.rootg2.amazontrust.com
-!unsure if these are needed for amazon @@||det-ta-g7g.amazon.com
-!unsure if these are needed for amazon @@||todo-ta-g7g.amazon.com
-!unsure if these are needed for amazon @@||device-messaging-na.amazon.com
-!unsure if these are needed for amazon @@||s3-eu-west-1.amazonaws.com
-!unsure if these are needed for amazon @@||us-east-1.amazonaws.com
-!unsure if these are needed for amazon @@||pindorama.amazon.com^$important
-!unsure if these are needed for amazon @@||d3p8zr0ffa9t17.cloudfront.net^$important
-!unsure if these are needed for amazon @@||device-metrics-us.amazon.com^$important
-!unsure if these are needed for amazon @@||api.amazonalexa.com^$important
-@@||.in-addr.arpa^$important
+! lan access:
+@@||*in-addr.arpa^$important
+@@||pcpartpicker.com^$important
+@@||mco.speedtest.sbcglobal.net^$important
+@@||tickets.thedali.org^$important
+! homeassistant:
+@@||brands.home-assistant.io^$important
+@@||mobile-apps.home-assistant.io^$important
+@@||updater.home-assistant.io^$important
+@@||www.home-assistant.io^$important
+@@||version.home-assistant.io^$important
+@@||community.home-assistant.io^$important
+!
+@@||instagram.ftpa1-1.fna.fbcdn.net^$important
+! WhatsApp:
+@@||web.whatsapp.com^$important
+@@||mmg.whatsapp.net^$important
+@@||g.whatsapp.net^$important
+! Amazon:
+@@||api.amazonalexa.com^$important
+@@||unagi-na.amazon.com^$important
+@@||avs-alexa-4-na.amazon.com^$important
+@@||alexa.amazon.com^
 @@||android.clients.google.com^$important
 @@||ampproject.org
 @@||eth-eu2.nanopool.org^$important
@@ -38,11 +41,9 @@
 @@||api.ecobee.com^$important
 @@||blogs.windows.com^$important
 @@||pasionprepagos.com^$important
-@@||avs-alexa-4-na.amazon.com^$important
 @@||wyze-venus-service-vn.wyzecam.com^$important
 @@||alexa.na.gateway.devices.a2z.com^$important
 @@||offerup.com^$important
-@@||version.home-assistant.io^$important
 @@||facebook.com^$important
 @@||offerup.app.link^$important
 @@||nhmws.nicehash.com^$important
@@ -53,7 +54,6 @@
 @@||instagram.com^
 @@||facebook.com^
 @@||pushbullet.com^
-@@||alexa.amazon.com^
 @@||fe3cr.delivery.mp.microsoft.com^$important
 @@||onedrive.live.com^
 @@||twitch.tv^$important
