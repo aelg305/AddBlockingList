@@ -10,6 +10,17 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||www.t-mobile.com^$important
+@@||*.intuit.com^$important
+@@||*.bamgrid.com^$important
+@@||*.disney-plus.net^$important
+@@||omniture-ssl.walmart.com^$important
+@@||api2.nicehash.com^$important
+@@||connect.facebook.net^$important
+@@||*.twitter.com^$important
+@@||*.amazonaws.com^$important
+@@||*.nflxso.net^$important
+@@||*.bitpay.com^$important
 @@||workplace.com^
 ! lan access:
 @@||*in-addr.arpa^$important
