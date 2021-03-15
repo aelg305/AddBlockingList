@@ -10,31 +10,45 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
-@@||www.t-mobile.com^$important
-@@||*.intuit.com^$important
+@@||domains.google.com^$important
+@@||porn.com^
+@@||foldingathome.org^$tetha_miner
+@@||mainnet.infura.io^$tetha_miner
+@@||static.nvidiagrid.net^$nvidia
+@@||api.amazonvideo.com^$amazonvideo
+@@||localization-api.crypto.com^$cryptoapp
+@@||app.mona.co^$cryptoapp
+@@||images-na.ssl-images-amazon.com^$imagesamazon
+@@||trackers.uglyemail.com^$uglyemail
+@@||status.nucypher.network^$nucypherminer
+@@||cdn.deadorbit.net^$destiny
+@@||api.cortana.ai^$cortana
+@@||www.halowaypoint.com^$halo
+@@||w.halocdn.com^$halo
+@@||*.intuitcdn.net^$intuit
+@@||assets.homedepot-static.com^$HomeDepot
+@@||images.homedepot-static.com^$HomeDepot
+@@||mandrillapp.com^$tetha_miner
+@@||*.nicehash.com^$NiceHash
+@@||mainnet-data.thetatoken.org^$tetha_miner
+@@||www.t-mobile.com^$TMobile
+@@||*.intuit.com^$intuit
 @@||*.bamgrid.com^$important
-@@||*.disney-plus.net^$important
-@@||omniture-ssl.walmart.com^$important
-@@||api2.nicehash.com^$important
-@@||connect.facebook.net^$important
-@@||*.twitter.com^$important
+@@||*.disney-plus.net^$Disney
+@@||omniture-ssl.walmart.com^$Walmart
+@@||connect.facebook.net^$Facebook
+@@||*.twitter.com^$Twitter
 @@||*.amazonaws.com^$important
-@@||*.nflxso.net^$important
-@@||*.bitpay.com^$important
+@@||*.nflxso.net^$Netflix
+@@||*.bitpay.com^$BitpayApp
 @@||workplace.com^
-! lan access:
-@@||*in-addr.arpa^$important
+@@||*in-addr.arpa^$Lan_Access
 @@||pcpartpicker.com^$important
 @@||mco.speedtest.sbcglobal.net^$important
-@@||tickets.thedali.org^$important
-! homeassistant:
-@@||brands.home-assistant.io^$important
-@@||mobile-apps.home-assistant.io^$important
-@@||updater.home-assistant.io^$important
-@@||www.home-assistant.io^$important
-@@||version.home-assistant.io^$important
-@@||community.home-assistant.io^$important
-!
+@@||brands.home-assistant.io^$HASS
+@@||mobile-apps.home-assistant.io^$HASS
+@@||updater.home-assistant.io^$HASS
+@@||*.home-assistant.io^$important
 @@||instagram.ftpa1-1.fna.fbcdn.net^$important
 ! WhatsApp:
 @@||web.whatsapp.com^$important
