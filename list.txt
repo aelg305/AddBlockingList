@@ -29,7 +29,7 @@
 @@||homedepot-static.com^
 @@||mandrillapp.com^$important
 @@||*.nicehash.com^$important
-@@||mainnet-data.thetatoken.org^
+@@||thetatoken.org^$important
 @@||www.t-mobile.com^$important
 @@||intuit.com^$important
 @@||*.bamgrid.com^$important
