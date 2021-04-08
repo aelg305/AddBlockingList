@@ -10,6 +10,21 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||api.t-mobiletuesdays.com^$important
+@@||notepad-plus-plus.org^$important
+@@||icloud.com^$important
+@@||apicdecolombia.com^$important
+@@||ethermine.org^$important
+@@||b.basemaps.cartocdn.com^$important
+@@||us04web.zoom.us^$important
+@@||zoom.us^$important
+@@||*.wellsfargomedia.com^$important
+@@||*.wellsfargo.com^$important
+@@||aa.com^$important
+@@||*.spcollege.edu^$important
+@@||ezto.mheducation.com^$important
+@@||etherscan.io^$important
+
 @@||domains.google.com^$important
 @@||porn.com^
 @@||foldingathome.org^$important
@@ -50,7 +65,12 @@
 @@||web.whatsapp.com^$important
 @@||mmg.whatsapp.net^$important
 @@||g.whatsapp.net^$important
+@@||mmx-ds.cdn.whatsapp.net^$important
 ! Amazon:
+@@||fireoscaptiveportal.com^$important
+@@||pindorama.amazon.com^$important
+@@||avs-alexa-18-na.amazon.com^$important
+@@||media-amazon.com^$important
 @@||api.amazonalexa.com^$important
 @@||unagi-na.amazon.com^$important
 @@||avs-alexa-4-na.amazon.com^$important
