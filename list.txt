@@ -10,6 +10,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||*.cartocdn.com^$important
 @@||api.t-mobiletuesdays.com^$important
 @@||notepad-plus-plus.org^$important
 @@||icloud.com^$important
