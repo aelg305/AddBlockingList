@@ -10,6 +10,11 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||apps.apple.com^$important
+@@||apis.ihg.com^$important
+@@||orlando.speedtest.centurylink.net^$important
+@@||homegraph.googleapis.com^$important
+
 @@||*.cartocdn.com^$important
 @@||api.t-mobiletuesdays.com^$important
 @@||notepad-plus-plus.org^$important
