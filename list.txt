@@ -10,6 +10,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||us-eth.2miners.com^$important
 @@||r20.rs6.net^$important
 @@||*.nicehash.com^$important
 @@||home-assistant.io^$important
