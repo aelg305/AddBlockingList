@@ -61,6 +61,3 @@ www.example.org
 # not properly working: /(^|\.)ad[sv]?\d*./
 /^|\.ravm.tv/
 /^|\.logs.roku.com/
-/^|\.tampabay.rr/
-/^|\.tampabayrr/
-/.*\..+\.tampabay\.rr\.com/
