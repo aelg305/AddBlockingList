@@ -11,6 +11,9 @@
 !
 ! White Listed Domains:
 @@||home-assistant.io^$important
+@@||www.theamericancollege.edu^$important
+@@||theamericancollege.edu^$important
+@@||studentaid.gov^$important
 !
 ! Black Listed Domains:
 www.example.com
@@ -59,5 +62,3 @@ www.example.org
 !
 ! Regex & Wildcard blocking
 # not properly working: /(^|\.)ad[sv]?\d*./
-/^|\.ravm.tv/
-/^|\.logs.roku.com/
