@@ -10,6 +10,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||image.tmdb.org^$important
 @@||home-assistant.io^$important
 @@||www.theamericancollege.edu^$important
 @@||theamericancollege.edu^$important
