@@ -10,6 +10,12 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+10.0.0.18 *.cloud.andreslopez.us
+
+@@||image.tmdb.org^$important
+@@||teladoc.com^$important
+@@||andreslopez.us^$important
+@@||spotify.com^$important
 @@||image.tmdb.org^$important
 @@||home-assistant.io^$important
 @@||www.theamericancollege.edu^$important
