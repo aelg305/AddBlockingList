@@ -10,7 +10,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
-10.0.0.18 *.cloud.andreslopez.us
+#10.0.0.18 *.cloud.andreslopez.us
 
 @@||image.tmdb.org^$important
 @@||teladoc.com^$important
