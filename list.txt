@@ -12,9 +12,6 @@
 ! White Listed Domains:
 #10.0.0.18 *.cloud.andreslopez.us
 @@||appenginereporting.googleapis.com^$important
-@@||content-autofill.googleapis.com^$important
-@@||cloudsearch.googleapis.com^$important
-@@||passwordsleakcheck-pa.googleapis.com^$important
 @@||split.io^$important
 @@||activision.com^$important
 @@||teladoc.com^$important
