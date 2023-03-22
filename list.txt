@@ -11,31 +11,28 @@
 !
 ! White Listed Domains:
 #10.0.0.18 *.cloud.andreslopez.us
+@@||appenginereporting.googleapis.com^$important
+@@||content-autofill.googleapis.com^$important
+@@||cloudsearch.googleapis.com^$important
+@@||passwordsleakcheck-pa.googleapis.com^$important
 @@||split.io^$important
 @@||activision.com^$important
-@@||tigo.com.co^$important
-@@||cloudflareaccess.com^$important
-@@||image.tmdb.org^$important
 @@||teladoc.com^$important
 @@||andreslopez.us^$important
 @@||spotify.com^$important
 @@||image.tmdb.org^$important
 @@||home-assistant.io^$important
-@@||www.theamericancollege.edu^$important
-@@||theamericancollege.edu^$important
 @@||studentaid.gov^$important
 @@||events.gfe.nvidia.com^$important
 @@||click.e.progressive.com^$important
 @@||smart.link^$important
 @@||uillinoisedu-my.sharepoint.com^$important
 @@||edge.microsoft.com^$important
-@@||www.theamericancollege.edu^$important
 @@||consent.truste.com^$important
 @@||cdns.gigya.com^$important
 @@||api.mixpanel.com^$important
 @@||mas-ext.amazon.com^$important
 @@||sentry.io^$important
-@@||googleapis.com^$important
 @@||cloudflareinsights.com^$important
 @@||staticargotunnel.com^$important
 !
