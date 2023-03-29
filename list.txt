@@ -34,9 +34,6 @@
 @@||staticargotunnel.com^$important
 !
 ! Black Listed Domains:
-||www.full4movies.me^$important
-||ww1.m4ufree.info^$important
-||w5.123movie.cc^$important
 ||imasdk.googleapis.com^$important
 !
 ! Regex & Wildcard blocking
