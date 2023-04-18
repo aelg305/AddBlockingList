@@ -10,6 +10,16 @@
 !
 ! White Listed Domains:
 #10.0.0.18 *.cloud.andreslopez.us
+@@||api2.amplitude.com^$important
+@@||api.amplitude.com^$important
+@@||worldfree4u.desi^$important
+@@||hdpopcorns.co^$important
+@@||cmovies.ac^$important
+@@||extramovies.casa^$important
+@@||full4movies.me^$important
+@@||m4ufree.info^$important
+@@||123movie.cc^$important
+@@||payusatax.com^$important
 @@||simplisafe.com^$important
 @@||googleapis.com^$important
 @@||split.io^$important
