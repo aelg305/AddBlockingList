@@ -9,7 +9,11 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
-#10.0.0.18 *.cloud.andreslopez.us
+@@||b.3c.com^$important
+@@||aax-us-east-retail-direct.amazon.com^$important
+@@||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^$important
+@@||fls-na.amazon.com^$important
+@@||ssl.kaptcha.com^$important
 @@||lopezweb.com^$important
 @@||api2.amplitude.com^$important
 @@||api.amplitude.com^$important
