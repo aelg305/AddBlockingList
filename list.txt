@@ -9,6 +9,8 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||childrensplace.com^$important
+@@||snap.licdn.com^$important
 @@||battle.net^$important
 @@||b.3c.com^$important
 @@||aax-us-east-retail-direct.amazon.com^$important
