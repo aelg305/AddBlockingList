@@ -9,6 +9,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||ec.walkme.com^$important
 @@||childrensplace.com^$important
 @@||snap.licdn.com^$important
 @@||battle.net^$important
