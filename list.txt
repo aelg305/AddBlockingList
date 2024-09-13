@@ -9,6 +9,8 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||track.capitaloneshopping.com^ !capital one shopping rewards app
+@@||a2z.com^$important !to have amazon alexa echoes to work
 @@||e.zg-api.com^$important !to have zillow maps work
 @@||ec.walkme.com^$important
 @@||childrensplace.com^$important
