@@ -9,6 +9,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||lopezweb.com^ !Lopez Site
 @@||track.capitaloneshopping.com^ !capital one shopping rewards app
 @@||a2z.com^$important !to have amazon alexa echoes to work
 @@||e.zg-api.com^$important !to have zillow maps work
