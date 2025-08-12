@@ -9,6 +9,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||mynylgbs.com^$important
 @@||newyorklife.com^$important
 @@||linksynergy.com^$important
 @@||capitalone.com^$important
