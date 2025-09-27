@@ -9,6 +9,7 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+@@||newyorklife.demdex.net^$important
 @@||mynylgbs.com^$important
 @@||newyorklife.com^$important
 @@||linksynergy.com^$important
