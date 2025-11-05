@@ -9,6 +9,14 @@
 ! Section contains list of advertising networks
 !
 ! White Listed Domains:
+! access for alexa... app not working: devices and routines
+@@||networking.aws.dev^$important
+@@||amazon.dev^$important
+@@||prod.service.minerva.devices.a2z.com^$important
+@@||devices.a2z.com^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||events.mapbox.com^$important
+!
 @@||newyorklife.demdex.net^$important
 @@||mynylgbs.com^$important
 @@||newyorklife.com^$important
