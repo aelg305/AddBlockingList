@@ -13,7 +13,7 @@
 @@||alkladau7w.cloudflare-gateway.com^$important 	! DNS for claudflare
 @@||home-assistant.io^$important					! allow HASS
 @@||lopezweb.com^ 									! Lopez Site
-@@||events.mapbox.com^$important					! allow maps in Hass ?
+!@@||events.mapbox.com^$important					! allow maps in Hass ?
 @@||networking.aws.dev^$important					! Alexa ?
 @@||amazon.dev^$important							! Alexa ?
 @@||prod.service.minerva.devices.a2z.com^$important	! Alexa ?
@@ -28,7 +28,8 @@
 @@||activision.com^$important						! gaming for COD ?
 @@||battle.net^$important							! gaming for COD ?
 @@||simplisafe.com^$important						! SimplaSafe access
-@@||googleapis.com^$important						! ?
+@@||googleapis.com^$important						! allows google / android / google api to work
+
 @@||events.gfe.nvidia.com^$important				! allow Nvidia
 !
 ! Black Listed Domains:
