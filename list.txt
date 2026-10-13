@@ -33,7 +33,8 @@
 @@||events.gfe.nvidia.com^$important				! allow Nvidia
 !
 ! Black Listed Domains:
-||imasdk.googleapis.com^$important
-||localizecdn.com^$important
+||imasdk.googleapis.com^$important					! domain used by Google's Interactive Media Ads (IMA) SDK, which is a software development kit employed by apps and websites to display interactive and video advertisements.
+||localizecdn.com^$important						! redirect to Localizejs.com, which specializes in providing localization tools for various applications and platforms
+||myqcloud.com^$important							! domain for core infrastructure, service routing, and hosting. Tencent Cloud
 !
 ! Regex & Wildcard blocking
